@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 905 1247" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_111{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<path d="M145.1,424.8l139.4,0" class="g1_111" />
+<path d="M145.9,458.8l0,-33.2" class="g1_111" />
+<path d="M284.5,424.8l138.6,0" class="g1_111" />
+<path d="M284.5,458.8l0,-33.2" class="g1_111" />
+<path d="M423.1,424.8l138.5,0" class="g1_111" />
+<path d="M423.1,458.8l0,-33.2" class="g1_111" />
+<path d="M561.6,424.8l198.4,0" class="g1_111" />
+<path d="M561.6,458.8l0,-33.2" class="g1_111" />
+<path d="M759.2,458.8l0,-33.2" class="g1_111" />
+<path d="M145.1,459.6l139.4,0" class="g1_111" />
+<path d="M145.9,493.5l0,-33.2" class="g1_111" />
+<path d="M284.5,459.6l138.6,0" class="g1_111" />
+<path d="M284.5,493.5l0,-33.2" class="g1_111" />
+<path d="M423.1,459.6l138.5,0" class="g1_111" />
+<path d="M423.1,493.5l0,-33.2" class="g1_111" />
+<path d="M561.6,459.6l198.4,0" class="g1_111" />
+<path d="M561.6,493.5l0,-33.2" class="g1_111" />
+<path d="M759.2,493.5l0,-33.2" class="g1_111" />
+<path d="M145.1,494.3l139.4,0" class="g1_111" />
+<path d="M145.9,601.6l0,-106.5" class="g1_111" />
+<path d="M284.5,494.3l138.6,0" class="g1_111" />
+<path d="M284.5,601.6l0,-106.5" class="g1_111" />
+<path d="M423.1,494.3l138.5,0" class="g1_111" />
+<path d="M423.1,601.6l0,-106.5" class="g1_111" />
+<path d="M561.6,494.3l198.4,0" class="g1_111" />
+<path d="M561.6,601.6l0,-106.5" class="g1_111" />
+<path d="M759.2,601.6l0,-106.5" class="g1_111" />
+<path d="M145.1,602.4l139.4,0" class="g1_111" />
+<path d="M145.9,636.3l0,-33.2" class="g1_111" />
+<path d="M284.5,602.4l138.6,0" class="g1_111" />
+<path d="M284.5,636.3l0,-33.2" class="g1_111" />
+<path d="M423.1,602.4l138.5,0" class="g1_111" />
+<path d="M423.1,636.3l0,-33.2" class="g1_111" />
+<path d="M561.6,602.4l198.4,0" class="g1_111" />
+<path d="M561.6,636.3l0,-33.2" class="g1_111" />
+<path d="M759.2,636.3l0,-33.2" class="g1_111" />
+<path d="M145.1,637.1l139.4,0" class="g1_111" />
+<path d="M284.5,637.1l138.6,0" class="g1_111" />
+<path d="M423.1,637.1l138.5,0" class="g1_111" />
+<path d="M561.6,637.1l198.4,0" class="g1_111" />
+</svg>

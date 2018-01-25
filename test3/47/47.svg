@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 905 1247" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g1_47{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<path d="M182.5,441.9l231.7,0" class="g1_47" />
+<path d="M183.2,491.2l0,-48.5" class="g1_47" />
+<path d="M414.2,441.9l147,0" class="g1_47" />
+<path d="M414.2,491.2l0,-48.5" class="g1_47" />
+<path d="M561.2,441.9l161.4,0" class="g1_47" />
+<path d="M561.2,491.2l0,-48.5" class="g1_47" />
+<path d="M721.9,491.2l0,-48.5" class="g1_47" />
+<path d="M182.5,492l231.7,0" class="g1_47" />
+<path d="M183.2,517.5l0,-24.8" class="g1_47" />
+<path d="M414.2,492l147,0" class="g1_47" />
+<path d="M414.2,517.5l0,-24.8" class="g1_47" />
+<path d="M561.2,492l161.4,0" class="g1_47" />
+<path d="M561.2,517.5l0,-24.8" class="g1_47" />
+<path d="M721.9,517.5l0,-24.8" class="g1_47" />
+<path d="M183.2,543.1l0,-25.6" class="g1_47" />
+<path d="M414.2,543.1l0,-25.6" class="g1_47" />
+<path d="M561.2,543.1l0,-25.6" class="g1_47" />
+<path d="M721.9,543.1l0,-25.6" class="g1_47" />
+<path d="M183.2,568.7l0,-25.6" class="g1_47" />
+<path d="M414.2,568.7l0,-25.6" class="g1_47" />
+<path d="M561.2,568.7l0,-25.6" class="g1_47" />
+<path d="M721.9,568.7l0,-25.6" class="g1_47" />
+<path d="M183.2,594.2l0,-25.5" class="g1_47" />
+<path d="M414.2,594.2l0,-25.5" class="g1_47" />
+<path d="M561.2,594.2l0,-25.5" class="g1_47" />
+<path d="M721.9,594.2l0,-25.5" class="g1_47" />
+<path d="M183.2,619l0,-24.8" class="g1_47" />
+<path d="M414.2,619l0,-24.8" class="g1_47" />
+<path d="M561.2,619l0,-24.8" class="g1_47" />
+<path d="M721.9,619l0,-24.8" class="g1_47" />
+<path d="M182.5,619.8l231.7,0" class="g1_47" />
+<path d="M414.2,619.8l147,0" class="g1_47" />
+<path d="M561.2,619.8l161.4,0" class="g1_47" />
+</svg>
